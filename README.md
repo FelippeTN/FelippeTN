@@ -32,3 +32,4 @@ I'm curently interested into everything that is around data science models: MLop
 ### Reach me on my public profile
 
 [LinkedIn](https://www.linkedin.com/in/Felippe-Toscano-Nalim/)
+[Instagram](https://www.instagram.com/felippetn?igsh=MWZxZGM0N2t4OXVweg==)
