@@ -30,6 +30,5 @@ I'm curently interested into everything that is around data science models: MLop
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
 ### Reach me on my public profile
-
-[LinkedIn](https://www.linkedin.com/in/Felippe-Toscano-Nalim/)
-[Instagram](https://www.instagram.com/felippetn?igsh=MWZxZGM0N2t4OXVweg==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Felippe-Toscano-Nalim/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felippetn?igsh=MWZxZGM0N2t4OXVweg==)
