@@ -2,9 +2,7 @@
 
 About Me
 
-My name is Felippe, and I am a Systems Analyst at the Procuradoria Geral do Estado do Rio de Janeiro. I work in the Technology Innovation Advisory department, specializing in **Natural Language Processing (NLP)**. My role allows me to apply my expertise in technology and linguistics to develop projects and initiatives aimed at optimizing institutional processes through **artificial intelligence solutions**. I am passionate about exploring new technologies and constantly seeking new challenges and learning opportunities to further enhance my professional skills.
-
-I'm curently interested into everything that is around data science models: MLops, data engineering, model integration/deployements.
+My name is Felippe. As a Systems Analyst within the Technology Innovation Advisory at the Procuradoria Geral do Estado do Rio de Janeiro, my primary role is to develop software that implements Artificial Intelligence to drive efficiency. I specialize in Natural Language Processing (NLP), architecting and coding solutions that transform complex institutional challenges into automated, intelligent processes. I am dedicated to the entire development lifecycle, from concept to deployment, always exploring new technologies and seeking out challenges that allow me to grow as a developer and innovator.
 
 [![Github](https://img.shields.io/github/followers/FelippeTN?label=Follow&style=social)](https://github.com/FelippeTN)
 
