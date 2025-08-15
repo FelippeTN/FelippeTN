@@ -2,7 +2,7 @@
 
 About Me
 
-My name is Felippe. As a Systems Analyst within the Technology Innovation Advisory at the Procuradoria Geral do Estado do Rio de Janeiro, my primary role is to develop software that implements Artificial Intelligence to drive efficiency. I specialize in Natural Language Processing (NLP), architecting and coding solutions that transform complex institutional challenges into automated, intelligent processes. I am dedicated to the entire development lifecycle, from concept to deployment, always exploring new technologies and seeking out challenges that allow me to grow as a developer and innovator.
+I am a Software Engineer passionate about transforming complex challenges into robust, high-performance software solutions. With solid experience in building end-to-end applications with Python (Django) and Node.js, I merge traditional software engineering with the power of Artificial Intelligence and NLP to create systems that not only function, but also learn, automate, and generate valuable insights.
 
 [![Github](https://img.shields.io/github/followers/FelippeTN?label=Follow&style=social)](https://github.com/FelippeTN)
 
