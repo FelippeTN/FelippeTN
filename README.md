@@ -30,3 +30,4 @@ I am a Software Engineer passionate about transforming complex challenges into r
 ### Reach me on my public profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Felippe-Toscano-Nalim/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felippetn?igsh=MWZxZGM0N2t4OXVweg==)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@felippetndev)
