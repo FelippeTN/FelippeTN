@@ -1,16 +1,15 @@
 # 💻 Felippe Nalim
 
-About Me
+### 🚀 About Me
 
-I am a Software Engineer passionate about transforming complex challenges into robust, high-performance software solutions. With solid experience in building end-to-end applications with Python (Django) and Node.js, I merge traditional software engineering with the power of Artificial Intelligence and NLP to create systems that not only function, but also learn, automate, and generate valuable insights.
+I am a **Software Engineer** dedicated to designing and building robust, production-grade systems. My focus goes beyond writing code; I strive to architect solutions that are **maintainable, scalable, and efficient**.
+
+Currently, at the **Attorney General's Office of the State of Rio de Janeiro (PGE-RJ)**, I bridge the gap between traditional Software Engineering and modern Artificial Intelligence. I specialize in **operationalizing AI**, transforming experimental models into reliable, high-performance software products that solve real-world problems.
+
+---
+
 
 [![Github](https://img.shields.io/github/followers/FelippeTN?label=Follow&style=social)](https://github.com/FelippeTN)
-
-
-### Github repositories stats
-
-
-![MrMimic stats](https://github-readme-stats.vercel.app/api?username=FelippeTN&show_icons=true&theme=dracula)
 
 
 ### Technical stack (non-exhaustive, non-ordered)
